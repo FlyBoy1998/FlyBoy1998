@@ -7,7 +7,7 @@ Web Developer
 Junior Web Developer with two years of project-based experience creating responsive websites and applications. Background spans public safety and residential property management, bringing discipline, clear communication, and stakeholder care into technical work. Known for building reliable, well-documented solutions that enhance usability and performance, with a growing portfolio showcasing both front-end and back-end development. Ready to thrive in new role.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [my portfolio website](http://florin-miron-portfolio.netlify.app/)
+* 🖥️  See my projects at [my portfolio website](http://florin-miron-portfolio.netlify.app/)
 * ✉️  You can contact me at [mironflorin123@yahoo.com](mailto:mironflorin123@yahoo.com)
 * 🧠  I'm currently learning Django, React
 
