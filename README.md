@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Florin Miron
 =====================================================================================================================================
 
-Web Developer
+:globe_with_meridians: Web Developer :globe_with_meridians:
 -------------
 
 Junior Web Developer with two years of project-based experience creating responsive websites and applications. Background spans public safety and residential property management, bringing discipline, clear communication, and stakeholder care into technical work. Known for building reliable, well-documented solutions that enhance usability and performance, with a growing portfolio showcasing both front-end and back-end development. Ready to thrive in new role.
